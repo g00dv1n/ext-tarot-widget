@@ -1,0 +1,12 @@
+{
+  "name": "ext-tarot-widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pack": "zip -r ext-tarot-widget.zip ext",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
